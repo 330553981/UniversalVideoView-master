@@ -28,7 +28,6 @@ import android.widget.TextView;
 import com.universalvideoview.UniversalMediaController;
 import com.universalvideoview.UniversalVideoView;
 
-// 可以横竖屏切换的哦
 public class MainActivity extends AppCompatActivity implements UniversalVideoView.VideoViewCallback{
 
     private static final String TAG = "MainActivity";
